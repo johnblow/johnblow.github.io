@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to New World
 
 You can use the [editor on GitHub](https://github.com/johnblow/johnblow.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
